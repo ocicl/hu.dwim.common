@@ -1,0 +1,9 @@
+* hu.dwim.common
+
+the code shared by all our hu.dwim.* projects
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.common.git |
+| commit  | 3894922                                           |
+| systems | hu.dwim.common                                    |
+|---------+---------------------------------------------------|
