@@ -7,3 +7,4 @@ the code shared by all our hu.dwim.* projects
 | commit  | 3894922                                           |
 | systems | hu.dwim.common                                    |
 |---------+---------------------------------------------------|
+ 
